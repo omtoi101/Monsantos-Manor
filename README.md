@@ -1,2 +1,2 @@
-# Mosantos-Manor
-Important information about the Mosanto's abandoned chemical manufacturing plant in Brooklyn.
+# Monsantos-Manor
+Important information about the Monsanto's abandoned chemical manufacturing plant in Brooklyn.
