@@ -142,11 +142,11 @@ The interior of the surviving building shows large-diameter overhead pipework, a
 
 | Contaminant | Source | Carcinogen? | Persistence | Health Risk |
 |---|---|---|---|---|
-| **Mercury** | 1960s–70s pneumatic instruments, manometers, level gauges | ✅ YES (neurological) | **Permanent** | Vapour inhalation; neurological damage; bioaccumulates; invisible and odourless |
-| **PCBs (polychlorinated biphenyls)** | Electrical transformers and capacitors | ✅ YES — Group 1 (IARC) | **Decades–centuries** | Endocrine disruption; liver damage; bioaccumulates in tissue |
-| **Asbestos** | Insulation on pipework (1941–1970s construction) | ✅ YES — Group 1 (IARC) | **Permanent** | Mesothelioma; asbestosis; lung cancer; fibres become airborne when disturbed |
-| **PAHs (polycyclic aromatic hydrocarbons)** | Heavy ends tar combustion/spillage | ✅ YES — multiple Group 1 | Decades in soil | Multiple cancers; skin absorption; highly persistent in soil |
-| **Lead** | Old paint, instrument components | ✅ YES (Group 2A) | Permanent | Neurotoxic; accumulates in bone; children especially vulnerable |
+| **Mercury** | 1960s–70s pneumatic instruments, manometers, level gauges | ❌ YES (neurological) | **Permanent** | Vapour inhalation; neurological damage; bioaccumulates; invisible and odourless |
+| **PCBs (polychlorinated biphenyls)** | Electrical transformers and capacitors | ❌ YES — Group 1 (IARC) | **Decades–centuries** | Endocrine disruption; liver damage; bioaccumulates in tissue |
+| **Asbestos** | Insulation on pipework (1941–1970s construction) | ❌ YES — Group 1 (IARC) | **Permanent** | Mesothelioma; asbestosis; lung cancer; fibres become airborne when disturbed |
+| **PAHs (polycyclic aromatic hydrocarbons)** | Heavy ends tar combustion/spillage | ❌ YES — multiple Group 1 | Decades in soil | Multiple cancers; skin absorption; highly persistent in soil |
+| **Lead** | Old paint, instrument components | ❌ YES (Group 2A) | Permanent | Neurotoxic; accumulates in bone; children especially vulnerable |
 
 ---
 
