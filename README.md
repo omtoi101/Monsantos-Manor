@@ -12,7 +12,7 @@
 
 ## External Resources & Media
 
-*   **[Historical Photo Gallery](https://www.facebook.com/groups/529582147502825/posts/1718689058592122/)**: A collection of over 70 high-quality photographs of the compound, documenting its operational years and decay.
+*   **[Historical Photo Gallery 70+ Photos](https://www.facebook.com/groups/529582147502825/posts/1718689058592122/)**: A collection of over 70 high-quality photographs of the compound, documenting its operational years and decay.
 *   **[Wikipedia: Huntsman Chemical Plant](https://en.wikipedia.org/wiki/Huntsman_(chemical_plant))**: Comprehensive historical overview, including ownership changes and production focus.
 *   **[A Tale of Three Phenol Plants](https://www.chemengevolution.org/processes-safety/processes/a-tale-of-three-phenol-plants)**: A detailed firsthand account from a former worker, providing insight into the site's engineering evolution.
 *   **[Google Earth - February 2010](https://earth.google.com/web/@-37.80701223,144.84376562,28.96331196a,720.88350914d,30.00000102y,3.93907694h,0t,0r/data=ChYqEAgBEgoyMDEwLTAyLTAxGAFCAggBMikKJwolCiExQ29aY0lQQWh4NDRMQU05NTRuY2cyQlh2R1BIQUY1UE0gAUICCABKCAjXqJzGBhAB)**: Satellite imagery captured just before the removal of the major tanks and chemical infrastructure.
