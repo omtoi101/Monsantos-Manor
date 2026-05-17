@@ -219,3 +219,5 @@ The interior of the surviving building shows large-diameter overhead pipework, a
 ---
 
 *Summary compiled from: Wikipedia — Huntsman (chemical plant); IChemE — A Tale of Three Phenol Plants; aerial imagery analysis 1974–2012; IARC Monographs on carcinogen classifications.*
+
+*Conversation with Claude:* https://claude.ai/share/daf3f471-a41d-4693-96d5-f5f0bba796e0
