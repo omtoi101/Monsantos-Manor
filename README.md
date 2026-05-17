@@ -152,9 +152,9 @@ The interior of the surviving building shows large-diameter overhead pipework, a
 
 ## Environmental Observations
 
-### The Dark Oil Spill (~5x5m)
+### The Dark Oil Spill (~3x3m)
 
-**Location:** Adjacent to where the oxidation reactor vessels (silos) stood
+**Location:** Adjacent to where the oxidation reactor vessels (silos) stood next to the doof warehouse
 **Characteristics:** Dark colour, petroleum/petrol odour.
 
 **Most Likely Composition (ranked by probability):**
