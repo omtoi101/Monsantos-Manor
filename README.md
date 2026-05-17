@@ -1,4 +1,4 @@
-# Huntsman/Monsanto West Footscray Site
+# Huntsman/Monsanto West Footscray Compound
 
 <img src="img/Manor.jpg" width="100%" alt="Huntsman/Monsanto West Footscray Site">
 
