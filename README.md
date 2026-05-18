@@ -2,11 +2,17 @@
 
 <img src="img/Manor.jpg" width="100%" alt="Huntsman/Monsanto West Footscray Site">
 
+---
+
 ## Contamination & Historical Summary
 
 **Location:** Somerville Rd, Brooklyn (West Footscray), Melbourne, VIC
 **Site Size:** 35 hectares | **City of Brimbank**
 **Operational Period:** 1941–2009 | **Demolished:** 2011
+
+---
+
+<img src="img/Angled_view.JPG" width="100%" alt="Huntsman/Monsanto West Footscray Site">
 
 ---
 
